@@ -1,0 +1,53 @@
+20:55:34 Info : Starting the Scrapping process
+20:56:42 Loaded the site
+20:56:42 Info : Start Scrapping car data
+20:57:22 Info : Scarpping started
+20:57:48 Info : Element targetted successfully
+20:57:48 Info : Fetching data
+21:52:42 Info : Starting the Scrapping process
+21:53:41 Loaded the site
+21:53:41 Info : Start Scrapping car data
+21:54:36 Info : Starting the Scrapping process
+21:55:04 Loaded the site
+21:55:04 Info : Start Scrapping car data
+21:55:25 Info : Scarpping started
+21:56:00 Info : Element targetted successfully
+21:56:00 Info : Fetching data
+22:06:04 Info : Starting the Scrapping process
+22:06:40 Loaded the site
+22:06:40 Info : Start Scrapping car data
+22:06:50 Info : Scarpping started
+22:07:06 Info : Element targetted successfully
+22:07:07 Info : Fetching data
+22:09:26 Info : Starting the Scrapping process
+22:09:43 Loaded the site
+22:09:43 Info : Start Scrapping car data
+22:09:53 Info : Scarpping started
+22:10:07 Info : Element targetted successfully
+22:10:08 Info : Fetching data
+22:11:24 Info : Element targetted successfully
+22:11:24 Info : Fetching data
+22:12:45 Info : Starting the Scrapping process
+22:13:04 Loaded the site
+22:13:04 Info : Start Scrapping car data
+22:13:14 Info : Scarpping started
+22:13:24 Info : Element targetted successfully
+22:13:24 Info : Fetching data
+22:14:16 Info : Starting the Scrapping process
+22:14:37 Loaded the site
+22:14:37 Info : Start Scrapping car data
+22:14:47 Info : Scarpping started
+22:14:58 Info : Element targetted successfully
+22:14:58 Info : Fetching data
+22:15:37 Info : Element targetted successfully
+22:15:37 Info : Fetching data
+22:16:16 Info : Element targetted successfully
+22:16:16 Info : Fetching data
+22:16:56 Info : Element targetted successfully
+22:16:56 Info : Fetching data
+22:17:36 Info : Element targetted successfully
+22:17:36 Info : Fetching data
+22:17:56 Info : Element targetted successfully
+22:17:56 Info : Fetching data
+22:18:51 Info : Element targetted successfully
+22:18:51 Info : Fetching data
